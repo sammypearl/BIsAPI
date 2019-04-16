@@ -1,0 +1,14 @@
+C:\Application DevProject\BIs.API\bin\Debug\netcoreapp2.2\BIs.API.deps.json
+C:\Application DevProject\BIs.API\bin\Debug\netcoreapp2.2\BIs.API.runtimeconfig.json
+C:\Application DevProject\BIs.API\bin\Debug\netcoreapp2.2\BIs.API.runtimeconfig.dev.json
+C:\Application DevProject\BIs.API\bin\Debug\netcoreapp2.2\BIs.API.dll
+C:\Application DevProject\BIs.API\bin\Debug\netcoreapp2.2\BIs.API.pdb
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.csprojAssemblyReference.cache
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.csproj.CoreCompileInputs.cache
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.RazorAssemblyInfo.cache
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.RazorAssemblyInfo.cs
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.AssemblyInfoInputs.cache
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.AssemblyInfo.cs
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.RazorTargetAssemblyInfo.cache
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.dll
+C:\Application DevProject\BIs.API\obj\Debug\netcoreapp2.2\BIs.API.pdb
